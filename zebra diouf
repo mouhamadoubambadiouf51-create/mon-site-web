@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur mon site web</h1>
+        <p>Créé par moi – simple, moderne et propre.</p>
+    </header>
+
+    <section class="content">
+        <h2>Qui suis-je ?</h2>
+        <p>Je suis un jeune entrepreneur passionné par le business et la technologie.</p>
+
+        <h2>Mes services</h2>
+        <ul>
+            <li>Conseils business</li>
+            <li>Stratégie digitale</li>
+            <li>Création de contenu</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 – Mon site web</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
